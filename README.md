@@ -2,7 +2,7 @@
 
 Artistic Realms is a website I'm building to practice my skills in JavaScript, HTML, CSS, Next.js, and React. The website is dedicated to real artists who want to showcase their work, connect with other creatives, and stay up-to-date on the latest art events and exhibitions.
 
-## Features(That will be totally be implemented)
+## Features(That will totally be implemented)
 
 Artistic Realms offers the following features for artists:
 
