@@ -1,38 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Artistic Realms - Website for Real Artists
 
-## Getting Started
+Artistic Realms is a website I'm building to practice my skills in JavaScript, HTML, CSS, Next.js, and React. The website is dedicated to real artists who want to showcase their work, connect with other creatives, and stay up-to-date on the latest art events and exhibitions.
 
-First, run the development server:
+## Features(That will be totally be implemented)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Artistic Realms offers the following features for artists:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Gallery of Artwork**: A gallery section where artists can showcase their artwork and visitors can browse different categories of art such as painting, sculpture, photography, and digital art.
+- **Artist Interviews**: Interviews with well-known artists, providing insights into their creative process, inspiration, and experiences.
+- **Art Events and Exhibitions**: Information about upcoming art events and exhibitions, including those hosted by Artistic Realms.
+- **Art Criticism and Reviews**: Reviews and criticism of new art pieces or exhibitions, promoting discourse around the artwork and providing feedback to artists.
+- **Tutorials and Tips**: Tutorials and tips for artists on various art techniques, mediums, and tools.
+- **Community Forum**: A community forum where artists can interact with each other, share ideas, collaborate, and provide feedback on each other's work.
+- **Artist Profiles**: Artist profiles that highlight their biography, artwork, and achievements.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Technologies Used
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+I'm using this project to practice my skills in JavaScript, HTML, CSS, Next.js, and React.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Why I'm building this
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+I'm building Artistic Realms to practice my skills in web development and create a project that showcases my abilities. I'm also passionate about art and believe that a website like Artistic Realms can provide a platform for real artists to showcase their work, connect with other creatives, and gain exposure in the art world.
